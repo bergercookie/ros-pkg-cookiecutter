@@ -1,4 +1,3 @@
-# SLAMcore ROS demos
+# {{cookiecutter.pkg_name}}
 
-Package contains nodes and configuration for launching demos that utilise the
-ROS/ROS 2 middleware
+{{cookiecutter.pkg_description}}
