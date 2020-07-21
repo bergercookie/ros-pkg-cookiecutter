@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>{{cookiecutter.pkg_name}}</name>
+  <version>0.1.0</version>
+  <description>{{cookiecutter.pkg_description}}</description>
+  <maintainer email="{{cookiecutter.email}}">{{cookiecutter.full_name}}</maintainer>
+  <author email="{{cookiecutter.email}}">{{cookiecutter.full_name}}</author>
+  <license>"{{cookiecutter.license}}"</license>
+  <doc_depend>doxygen</doc_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- <build_depend>a_pkg</build_depend> -->
+  <!-- <exec_depend>a_second_pkg</exec_depend> -->
+</package>

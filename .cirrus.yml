@@ -1,0 +1,9 @@
+container:
+  image: python:latest
+
+sample_task:
+  test_cookiecutter:
+    - pip3 install --user --upgrade cookiecutter
+    - cookiecutter --no-input .
+    - test -d ros_pkg
+

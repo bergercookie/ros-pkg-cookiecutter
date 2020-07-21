@@ -1,0 +1,8 @@
+{
+    "full_name": "Guybrush Threepwood",
+    "email": "guybrush@monkeyisland.com",
+    "pkg_name": "ros_pkg",
+    "pkg_description": "Sample description",
+    "version": "0.1.0",
+    "license": "MIT"
+}
